@@ -16,3 +16,23 @@ Youtube: [Full Moon](https://www.youtube.com/channel/UC7TO1H5oBec74okIxrEhc0A) T
 Youtube: [Game Dev Journey](https://www.youtube.com/channel/UC-0AetV8wp1aKaErKUrVfjA) Twitter: [@DevGodot](https://twitter.com/DevGodot)  
 
 Youtube: [INDIEGAMEIACS](https://www.youtube.com/c/INDIEGAMEIACS) Twitter: [@IndieGameiacs](https://twitter.com/IndieGameiacs)  
+
+## May 28,2021
+
+Youtube: [Peak Pineapple Studio](https://www.youtube.com/channel/UCckGvxB-Ei2IoTdKcbPukSw) Twitter: [@Peakpineapple1](https://twitter.com/Peakpineapple1)
+
+Youtube: [8BitBaron](https://www.youtube.com/channel/UCdpCAkCT_t1w9TxFSDVviMw) Twitter: [@DadamBaron](https://twitter.com/DadamBaron)
+
+Youtube: [Mumin](https://www.youtube.com/channel/UCdk3O_YfSOgBibLnD8Y8Q2w) Twitter: [@GameDevMumin](https://twitter.com/GameDevMumin)
+
+Youtube: [Fun Noober](https://www.youtube.com/channel/UCl-QgdSZcXwnrNhPdxMSKlA) Twitter: [@fun_noober](https://twitter.com/fun_noober)
+
+## June 4, 2021
+
+Youtube: [Nic The Thicc](https://www.youtube.com/channel/UCbr2akX4t7gVHrKFi_u3fOg) Twitter: [@kissthebutton](https://twitter.com/kissthebutton)
+
+Youtube: [BarrowBloke](https://www.youtube.com/channel/UCc73W8ee3ednjVrmAU4acKg)
+
+Youtube: [Sixgill Studios](https://www.youtube.com/user/SixgillStudios)
+
+
