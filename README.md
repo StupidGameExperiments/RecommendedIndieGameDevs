@@ -16,15 +16,7 @@ Hello Hello Hello. This is a list of Indie Game Devs that have been recommended 
 
 ## May 21, 2021
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=AkZosTzmKgM"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=AkZosTzmKgM)
 
 Youtube: [Triality Games](https://www.youtube.com/c/TrialityGames) Twitter: [@trialityg](https://twitter.com/trialityg)  
 
@@ -38,6 +30,8 @@ Youtube: [INDIEGAMEIACS](https://www.youtube.com/c/INDIEGAMEIACS) Twitter: [@Ind
 
 ## May 28, 2021
 
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=H9sxNYZq-X4)
+
 Youtube: [Peak Pineapple Studio](https://www.youtube.com/channel/UCckGvxB-Ei2IoTdKcbPukSw) Twitter: [@Peakpineapple1](https://twitter.com/Peakpineapple1)
 
 Youtube: [8BitBaron](https://www.youtube.com/channel/UCdpCAkCT_t1w9TxFSDVviMw) Twitter: [@DadamBaron](https://twitter.com/DadamBaron)
@@ -48,6 +42,8 @@ Youtube: [Fun Noober](https://www.youtube.com/channel/UCl-QgdSZcXwnrNhPdxMSKlA) 
 
 ## June 4, 2021
 
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=nAVukkthILo)
+
 Youtube: [Nic The Thicc](https://www.youtube.com/channel/UCbr2akX4t7gVHrKFi_u3fOg) Twitter: [@kissthebutton](https://twitter.com/kissthebutton)
 
 Youtube: [BarrowBloke](https://www.youtube.com/channel/UCc73W8ee3ednjVrmAU4acKg)
@@ -56,6 +52,8 @@ Youtube: [Sixgill Studios](https://www.youtube.com/user/SixgillStudios)
 
 ## June 11, 2021
 
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=-mXUYdo_xJY)
+
 Youtube: [Marcus Karapetain](https://www.youtube.com/channel/UCVZIbjgyJ0Wqr2OpE-sS_HQ)
 
 Youtube: [Michael Rivera](https://www.youtube.com/channel/UCwkzOMMypQ8rnJrYxQHLNxA) Twitter: [@MichaelRivaroni](https://twitter.com/MichaelRivaroni)
@@ -63,6 +61,8 @@ Youtube: [Michael Rivera](https://www.youtube.com/channel/UCwkzOMMypQ8rnJrYxQHLN
 Youtube: [Mukar](https://www.youtube.com/c/Mukar) Twitter: [@MukKunDev](https://twitter.com/MukKunDev)
 
 ## June 18, 2021
+
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=9oRNxRUeGs8)
 
 Youtube: [Strange Lake](https://www.youtube.com/channel/UCAsy7DZsbRljCnG3lSpqWKQ)
 
@@ -76,6 +76,8 @@ Youtube: [Bronze Moon Games](https://www.youtube.com/channel/UCusWWzZ_eFtx96GOa5
 
 ##  June 25, 2021
 
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=V3X_UDoeY5E)
+
 Youtube: [Frigid Wizard](https://www.youtube.com/channel/UC1eiS9b0fqcy2VuAD9xning)
 
 Youtube: [Martin](https://www.youtube.com/channel/UC2WqFzsANtvc6DzIGEAaIgQ)
@@ -88,6 +90,8 @@ Youtube: [Crap Games](https://www.youtube.com/channel/UC_7hNDLEfogTZFedA0bUGNA)
 
 ## July 16, 2021
 
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=ylCqV8fS3fM)
+
 Youtube: [TomIzDumb](https://www.youtube.com/channel/UCEtE5YQRyOxWeDTMNtvY0jw/videos) Twitter: [@TomIzDumb](https://twitter.com/TomIzDumb)
 
 Youtube: [Imilkowski Dev](https://www.youtube.com/channel/UCOCTgbHNPweX6uIHJAX9t3g) Twitter: [@imilkowski_b](https://twitter.com/imilkowski_b)
@@ -99,6 +103,8 @@ Youtube: [Dave Da Smupp](https://www.youtube.com/channel/UC_Vl1mONK4shZLzrb61jZY
 Youtube: [JJfriends](https://www.youtube.com/channel/UC_jGiIV-a1jS_VQXzUnKLoA)
 
 ## July 23, 2021
+
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=XNq_16sYMrI)
 
 Youtube: [Xerclipse](https://www.youtube.com/channel/UC_-XGNpNjxfLhZj-qPJoLnw)
 
