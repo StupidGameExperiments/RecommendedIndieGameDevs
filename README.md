@@ -81,12 +81,12 @@ Youtube: [JJfriends](https://www.youtube.com/channel/UC_jGiIV-a1jS_VQXzUnKLoA)
 
 ## July 23, 2021
 
-Youtube: [Xerclipse](https://www.youtube.com/channel/UC_-XGNpNjxfLhZj-qPJoLnw
+Youtube: [Xerclipse](https://www.youtube.com/channel/UC_-XGNpNjxfLhZj-qPJoLnw)
 
 Youtube: [Shurooq Juma](https://www.youtube.com/channel/UCsmElKcG_G-bA_0bb5iuVKQ) Twitter: [@gamedevshu](https://twitter.com/gamedevshu)
 
 Youtube: [Spellcast Studios](https://www.youtube.com/channel/UCB2GQh7i37KRxahNm5VgCkw) Twitter: [@ardenfall](https://twitter.com/ardenfall)
 
-Youtube: [Chillin Games](https://www.youtube.com/channel/UCpPo1NgzWLwNQ1eaGzDOXuA
+Youtube: [Chillin Games](https://www.youtube.com/channel/UCpPo1NgzWLwNQ1eaGzDOXuA)
 
-Youtube: [AmberLimShin Games](https://www.youtube.com/channel/UCV6PlrQ3dgcDV9XqN2iWVSg
+Youtube: [AmberLimShin Games](https://www.youtube.com/channel/UCV6PlrQ3dgcDV9XqN2iWVSg)
