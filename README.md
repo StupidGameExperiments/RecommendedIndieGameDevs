@@ -4,7 +4,14 @@
 
 Hello Hello Hello. This is a list of Indie Game Devs that have been recommended on the Stupid Game Experiments Youtube Channel During the #FollowFriday videos.  A playlist of all those videos can be found at [Recommended Indie Devs Playlist](https://www.youtube.com/watch?v=AkZosTzmKgM&list=PLMMiYAzAv-kxh08ZQ6mcU1wrRWZcaBu9N)
 
-
+## Table of Contents
+[May 21, 2021](#may-21-2021)
+[May 28,2021](#may-28-2021)
+[June 4, 2021](#june-4-2021)
+[June 11, 2021](#june-11-2021)
+[June 18, 2021](#june-18-2021)
+[June 25, 2021](#june-25-2021)
+[July 16, 2021](#july-16-2021)
 [July 23, 2021](#july-23-2021)
 
 ## May 21, 2021
@@ -19,7 +26,7 @@ Youtube: [Game Dev Journey](https://www.youtube.com/channel/UC-0AetV8wp1aKaErKUr
 
 Youtube: [INDIEGAMEIACS](https://www.youtube.com/c/INDIEGAMEIACS) Twitter: [@IndieGameiacs](https://twitter.com/IndieGameiacs)  
 
-## May 28,2021
+## May 28, 2021
 
 Youtube: [Peak Pineapple Studio](https://www.youtube.com/channel/UCckGvxB-Ei2IoTdKcbPukSw) Twitter: [@Peakpineapple1](https://twitter.com/Peakpineapple1)
 
