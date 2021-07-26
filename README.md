@@ -5,6 +5,7 @@
 Hello Hello Hello. This is a list of Indie Game Devs that have been recommended on the Stupid Game Experiments Youtube Channel During the #FollowFriday videos.  A playlist of all those videos can be found at [Recommended Indie Devs Playlist](https://www.youtube.com/watch?v=AkZosTzmKgM&list=PLMMiYAzAv-kxh08ZQ6mcU1wrRWZcaBu9N)
 
 ## Table of Contents
+[May 7, 2021](#may-7-2021)  
 [May 21, 2021](#may-21-2021)  
 [May 28,2021](#may-28-2021)  
 [June 4, 2021](#june-4-2021)  
@@ -13,6 +14,18 @@ Hello Hello Hello. This is a list of Indie Game Devs that have been recommended 
 [June 25, 2021](#june-25-2021)  
 [July 16, 2021](#july-16-2021)  
 [July 23, 2021](#july-23-2021)  
+
+## May 7, 2021
+
+This was actually a Weekly Recap before I started doing #FollowFriday, but it was the first video I started recommending other game devs in.
+
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=CW03qHAC0Cs)
+
+Youtube: [paypercutts](https://www.youtube.com/channel/UCm-obvqRjG2wn8gEXYTpvcg) Twitter: [@paypercutts](https://twitter.com/paypercutts)
+
+Youtube: [Underfunded Scientist](https://www.youtube.com/channel/UCjhGTem-jVDq77_ErmpXS9A) Twitter: [@UnderfundedS](https://twitter.com/UnderfundedS)
+
+Youtube: [Neat Games](https://www.youtube.com/channel/UC9Hcm5cWbYQkzy05xeNAGiw) Twitter: [@neat_games](https://twitter.com/neat_games)
 
 ## May 21, 2021
 
