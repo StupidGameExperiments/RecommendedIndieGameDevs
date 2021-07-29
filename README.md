@@ -81,7 +81,7 @@ Youtube: [Strange Lake](https://www.youtube.com/channel/UCAsy7DZsbRljCnG3lSpqWKQ
 
 Youtube: [Your Average Unity Programmer](https://www.youtube.com/channel/UCNMDGl-pqIlI3INsTDIqzMw)
 
-Youtube: [Chris Shim](https://www.youtube.com/channel/UCild7pbBT8Zalh9s349rmrQ)
+Youtube: [Chris Shim](https://www.youtube.com/channel/UCild7pbBT8Zalh9s349rmrQ) Twitter: [@ChrisShim_](https://twitter.com/ChrisShim_)
 
 Youtube: [1 Bit Monster](https://www.youtube.com/channel/UC5XxX0vIsmVJI_1STm0GoEw)
 
