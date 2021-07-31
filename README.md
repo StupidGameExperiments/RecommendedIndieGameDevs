@@ -14,6 +14,7 @@ Hello Hello Hello. This is a list of Indie Game Devs that have been recommended 
 [June 25, 2021](#june-25-2021)  
 [July 16, 2021](#july-16-2021)  
 [July 23, 2021](#july-23-2021)  
+[July 30, 2021](#july-30-2021)
 
 ## May 7, 2021
 
@@ -128,3 +129,21 @@ Youtube: [Spellcast Studios](https://www.youtube.com/channel/UCB2GQh7i37KRxahNm5
 Youtube: [Chillin Games](https://www.youtube.com/channel/UCpPo1NgzWLwNQ1eaGzDOXuA)
 
 Youtube: [AmberLimShin Games](https://www.youtube.com/channel/UCV6PlrQ3dgcDV9XqN2iWVSg)
+
+## July 30, 2021
+
+[Link to the original video on Youtube]()
+
+Youtube: [Kamran Wali](https://www.youtube.com/channel/UCkm-BgvswLViigPWrMo8pjg) Twitter: [@KamranWaliDev](https://twitter.com/KamranWaliDev)
+
+Youtube: [MadR](https://www.youtube.com/channel/UCRl4gwo5vKW9Uqnr7V9GKBw) Twitter: [@MadRdev](https://twitter.com/MadRdev)
+
+Youtube: [FennecFu Games](https://www.youtube.com/channel/UCtaxhZr_lNC21wuJdUIQKRQ) Twitter: [@fennecfu](https://twitter.com/Fennecfu)
+
+Youtube: [Pix Spaces](https://www.youtube.com/channel/UCiaeTJEAu_veLimNmKEEUww) Twitter: [@PixSpaces](https://twitter.com/PixSpaces)
+
+Youtube: [Tauheed Game Dev](https://www.youtube.com/channel/UC3txq3Jo6ev_GydDxKMvMeg) Twitter: [@TauheedGameDev](https://twitter.com/TauheedGameDev)
+
+Youtube: [Destus Gamez](https://www.youtube.com/c/DestusGamez) Twitter: [@nobledestus0](https://mobile.twitter.com/nobledestus0)
+
+Youtube: [Idiot Programmer](https://www.youtube.com/channel/UCHYW6csO85RH1I5efBcBF8A) Twitter: [@ProgrammerIdiot](https://twitter.com/ProgrammerIdiot)
