@@ -132,7 +132,7 @@ Youtube: [AmberLimShin Games](https://www.youtube.com/channel/UCV6PlrQ3dgcDV9XqN
 
 ## July 30, 2021
 
-[Link to the original video on Youtube]()
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=9e3CTX89oHY)
 
 Youtube: [Kamran Wali](https://www.youtube.com/channel/UCkm-BgvswLViigPWrMo8pjg) Twitter: [@KamranWaliDev](https://twitter.com/KamranWaliDev)
 
