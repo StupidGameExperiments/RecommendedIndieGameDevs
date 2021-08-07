@@ -147,3 +147,21 @@ Youtube: [Tauheed Game Dev](https://www.youtube.com/channel/UC3txq3Jo6ev_GydDxKM
 Youtube: [Destus Gamez](https://www.youtube.com/c/DestusGamez) Twitter: [@nobledestus0](https://mobile.twitter.com/nobledestus0)
 
 Youtube: [Idiot Programmer](https://www.youtube.com/channel/UCHYW6csO85RH1I5efBcBF8A) Twitter: [@ProgrammerIdiot](https://twitter.com/ProgrammerIdiot)
+
+## August 6, 2021
+
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=d7FjTc0ASTI)
+
+Youtube: [Jackie Codes](https://www.youtube.com/channel/UCVrC7eFcep-0gPw2foMvYcQ) Twitter: [@jackie_codes](https://twitter.com/jackie_codes)
+
+Youtube: [affordable_cat](https://www.youtube.com/channel/UCtc52xzMHuCUwgtCX-J6R5A) Twitter: [@CatAffordable](https://twitter.com/CatAffordable)
+
+Youtube: [Ghostbit Studios](https://www.youtube.com/channel/UCb26g71EzS6RTueDU1TOqgA) Twitter: [@GhostBitStudios](https://twitter.com/GhostBitStudios)
+
+Youtube: [spoonsweet](https://www.youtube.com/channel/UCgiKD2hd3MCmVvxjHNnPe-g) Twitter: [@spoonsweet1](https://twitter.com/spoonsweet1)
+
+Youtube: [Null Somnus](https://www.youtube.com/channel/UCTU4LsRyjqHTGwFJU_BXpDA) Twitter: [@NullSomnusGames](https://twitter.com/NullSomnusGames)
+
+Youtube: [DolphinDev](https://www.youtube.com/c/DolphinDev) Twitter: [@DevDolphin](https://twitter.com/DevDolphin)
+
+Youtube: [Rob Lang](https://www.youtube.com/c/RobLang) Twitter: [@brainwipe](https://twitter.com/brainwipe)
