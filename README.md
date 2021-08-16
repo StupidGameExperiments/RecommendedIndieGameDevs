@@ -15,6 +15,9 @@ Hello Hello Hello. This is a list of Indie Game Devs that have been recommended 
 [July 16, 2021](#july-16-2021)  
 [July 23, 2021](#july-23-2021)  
 [July 30, 2021](#july-30-2021)
+[July 30, 2021](#july-30-2021)
+[August 6, 2021](#august-6-2021)
+[August 13, 2021](#august-13-2021)
 
 ## May 7, 2021
 
@@ -165,3 +168,15 @@ Youtube: [Null Somnus](https://www.youtube.com/channel/UCTU4LsRyjqHTGwFJU_BXpDA)
 Youtube: [DolphinDev](https://www.youtube.com/c/DolphinDev) Twitter: [@DevDolphin](https://twitter.com/DevDolphin)
 
 Youtube: [Rob Lang](https://www.youtube.com/c/RobLang) Twitter: [@brainwipe](https://twitter.com/brainwipe)
+
+## August 13, 2021
+
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=_fS5NE_ECHE)
+
+Youtube: [collin visser](https://www.youtube.com/channel/UC4xyHdgTj6gpzA1zwniDUoQ) Twitter: [@CollinVizzer](https://twitter.com/CollinVizzer)
+
+Youtube: [Chaff Dev](https://www.youtube.com/channel/UC7Ln337Vpli1JHEFDks1t7g) Twitter: [@ChaffDev](https://twitter.com/ChaffDev)
+
+Youtube: [Bbomb](https://www.youtube.com/channel/UCiZ9HP3VGWYU41Dx5Qb7ZCA) Twitter: [@Bbomb112](https://twitter.com/Bbomb112)
+
+Youtube: [Dash](https://www.youtube.com/c/DashDev) Twitter: [@DashTheDev](https://twitter.com/DashTheDev)
