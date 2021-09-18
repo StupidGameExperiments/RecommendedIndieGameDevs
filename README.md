@@ -20,7 +20,7 @@ Hello Hello Hello. This is a list of Indie Game Devs that have been recommended 
 [August 13, 2021](#august-13-2021)  
 [August 21, 2021](#august-21-2021)  
 [September 3, 2021](#september-3-2021)  
-[September 21, 2021](#september-21-2021)  
+[September 17, 2021](#september-17-2021)  
 
 
 
