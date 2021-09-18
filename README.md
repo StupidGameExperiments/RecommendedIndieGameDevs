@@ -220,7 +220,7 @@ Youtube: [Caius Nelson](https://www.youtube.com/channel/UClrrwbUrIusYNgaGSUiDagQ
 
 ## September 17, 2021
 
-[Link to the original video on Youtube](https://www.youtube.com/watch?v=dQAcL-7aiw0)
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=QXjDNTELz3k)
 
 Youtube: [HybridLizard](https://www.youtube.com/channel/UCfI3pDnsOS_SneWQ4ntQMhw) Twitter: [@TheHybridLizard](https://twitter.com/TheHybridLizard)
 
