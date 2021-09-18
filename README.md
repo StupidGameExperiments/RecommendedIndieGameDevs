@@ -18,6 +18,8 @@ Hello Hello Hello. This is a list of Indie Game Devs that have been recommended 
 [July 30, 2021](#july-30-2021)  
 [August 6, 2021](#august-6-2021)  
 [August 13, 2021](#august-13-2021)  
+[September 3, 2021](#september-3-2021)
+
 
 ## May 7, 2021
 
@@ -180,3 +182,18 @@ Youtube: [Chaff Dev](https://www.youtube.com/channel/UC7Ln337Vpli1JHEFDks1t7g) T
 Youtube: [Bbomb](https://www.youtube.com/channel/UCiZ9HP3VGWYU41Dx5Qb7ZCA) Twitter: [@Bbomb112](https://twitter.com/Bbomb112)
 
 Youtube: [Dash](https://www.youtube.com/c/DashDev) Twitter: [@DashTheDev](https://twitter.com/DashTheDev)
+
+## September 3, 2021
+
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=dQAcL-7aiw0)
+
+
+Youtube: [Jack Goddard](https://www.youtube.com/channel/UCI3jerWIG9dLjQQRWwmnRyQ) Twitter: [@ActuallyGoddard](https://twitter.com/ActuallyGoddard)
+
+Youtube: [Perfoon](https://www.youtube.com/channel/UCCtGxK8qQMZTwZlAnLOE90A) Twitter: [@JaanusJaggo](https://twitter.com/JaanusJaggo)
+
+Youtube: [3D Virtualand](https://www.youtube.com/channel/UCUSCxIN_fHRIOcBnCT_K2mg) Twitter: [@3dvirtualand](https://twitter.com/3dvirtualand)
+
+Youtube: [OpenArcana Studio](https://www.youtube.com/channel/UC_1o0fG7M2Dc_Jo7Onw5qyA) Twitter: [@open_arcana](https://twitter.com/open_arcana)
+
+Youtube: [Caius Nelson](https://www.youtube.com/channel/UClrrwbUrIusYNgaGSUiDagQ) Twitter: [@CaiusNelson](https://twitter.com/CaiusNelson)
