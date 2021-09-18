@@ -134,7 +134,7 @@ Youtube: [Shurooq Juma](https://www.youtube.com/channel/UCsmElKcG_G-bA_0bb5iuVKQ
 
 Youtube: [Spellcast Studios](https://www.youtube.com/channel/UCB2GQh7i37KRxahNm5VgCkw) Twitter: [@ardenfall](https://twitter.com/ardenfall)
 
-Youtube: [Chillin Games](https://www.youtube.com/channel/UCpPo1NgzWLwNQ1eaGzDOXuA)
+Youtube: [Chillin Games](https://www.youtube.com/channel/UCpPo1NgzWLwNQ1eaGzDOXuA) Twitter: [@ChillinGames](https://twitter.com/ChillinGames)
 
 Youtube: [AmberLimShin Games](https://www.youtube.com/channel/UCV6PlrQ3dgcDV9XqN2iWVSg)
 
