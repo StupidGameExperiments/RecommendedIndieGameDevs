@@ -18,6 +18,7 @@ Hello Hello Hello. This is a list of Indie Game Devs that have been recommended 
 [July 30, 2021](#july-30-2021)  
 [August 6, 2021](#august-6-2021)  
 [August 13, 2021](#august-13-2021)  
+[August 21, 2021](#august-21-2021)  
 [September 3, 2021](#september-3-2021)
 
 
@@ -182,6 +183,24 @@ Youtube: [Chaff Dev](https://www.youtube.com/channel/UC7Ln337Vpli1JHEFDks1t7g) T
 Youtube: [Bbomb](https://www.youtube.com/channel/UCiZ9HP3VGWYU41Dx5Qb7ZCA) Twitter: [@Bbomb112](https://twitter.com/Bbomb112)
 
 Youtube: [Dash](https://www.youtube.com/c/DashDev) Twitter: [@DashTheDev](https://twitter.com/DashTheDev)
+
+## August 21, 2021
+
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=fY6nL2bW5D0)
+
+Youtube: [Uncle Indie](https://www.youtube.com/c/UncleIndie) Twitter: [Uncle Indie](https://twitter.com/UncleIndie)
+
+Youtube: [Eyeseemint Dev](https://www.youtube.com/channel/UCvscJ9rseJ3jbxOEN_vN2gg) Twitter: [@sasagicode](https://twitter.com/sasagicode)
+
+Youtube: [Momentime](https://www.youtube.com/channel/UCWwM009nKB0ZIG-47o0BtKw) Twitter: [@Momentime3D](https://twitter.com/Momentime3D)
+
+Youtube: [Leon Stansfield](https://www.youtube.com/channel/UCMygjYg4U1ZPH87yei2t7aw) Twitter: [@Leonstansfield0](https://twitter.com/Leonstansfield0)
+
+Youtube: [KotieDev](https://www.youtube.com/channel/UCDm0QRWoiauGdCdc3OF6Gog) Twitter: [@BenNilsson97](https://twitter.com/BenNilsson97)
+
+Youtube: [Earth To Ryan](https://www.youtube.com/c/TheGooberverse) Twitter: [@gooberdev](https://twitter.com/gooberdev)
+
+Youtube: [Xanderwood](https://www.youtube.com/c/XanderwoodGameDev) Twitter: [@GameDev_Alex](https://twitter.com/GameDev_Alex)
 
 ## September 3, 2021
 
