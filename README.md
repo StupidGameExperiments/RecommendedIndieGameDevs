@@ -206,7 +206,6 @@ Youtube: [Xanderwood](https://www.youtube.com/c/XanderwoodGameDev) Twitter: [@Ga
 
 [Link to the original video on Youtube](https://www.youtube.com/watch?v=dQAcL-7aiw0)
 
-
 Youtube: [Jack Goddard](https://www.youtube.com/channel/UCI3jerWIG9dLjQQRWwmnRyQ) Twitter: [@ActuallyGoddard](https://twitter.com/ActuallyGoddard)
 
 Youtube: [Perfoon](https://www.youtube.com/channel/UCCtGxK8qQMZTwZlAnLOE90A) Twitter: [@JaanusJaggo](https://twitter.com/JaanusJaggo)
@@ -216,3 +215,16 @@ Youtube: [3D Virtualand](https://www.youtube.com/channel/UCUSCxIN_fHRIOcBnCT_K2m
 Youtube: [OpenArcana Studio](https://www.youtube.com/channel/UC_1o0fG7M2Dc_Jo7Onw5qyA) Twitter: [@open_arcana](https://twitter.com/open_arcana)
 
 Youtube: [Caius Nelson](https://www.youtube.com/channel/UClrrwbUrIusYNgaGSUiDagQ) Twitter: [@CaiusNelson](https://twitter.com/CaiusNelson)
+
+## September 17, 2021
+
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=dQAcL-7aiw0)
+
+Youtube: [HybridLizard](https://www.youtube.com/channel/UCfI3pDnsOS_SneWQ4ntQMhw) Twitter: [@TheHybridLizard](https://twitter.com/TheHybridLizard)
+
+Youtube: [Charcool](https://www.youtube.com/channel/UCMzUQJQ_ZgAy4Za2EEi4X1w) Twitter: [@Charcool15](https://twitter.com/Charcool15)
+
+Youtube: [Tissue Inu](https://www.youtube.com/c/TissueInu) Twitter: [@TissueInu](https://twitter.com/TissueInu)
+
+Youtube: [Copycat Game Devlog](https://www.youtube.com/c/CopycatGameDevlog) Twitter: [@GameCopycat](https://twitter.com/GameCopycat)
+
