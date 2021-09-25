@@ -21,6 +21,7 @@ Hello Hello Hello. This is a list of Indie Game Devs that have been recommended 
 [August 21, 2021](#august-21-2021)  
 [September 3, 2021](#september-3-2021)  
 [September 17, 2021](#september-17-2021)  
+[September 24, 2021](#september-24-2021)  
 
 
 
@@ -229,4 +230,16 @@ Youtube: [Charcool](https://www.youtube.com/channel/UCMzUQJQ_ZgAy4Za2EEi4X1w) Tw
 Youtube: [Tissue Inu](https://www.youtube.com/c/TissueInu) Twitter: [@TissueInu](https://twitter.com/TissueInu)
 
 Youtube: [Copycat Game Devlog](https://www.youtube.com/c/CopycatGameDevlog) Twitter: [@GameCopycat](https://twitter.com/GameCopycat)
+
+## September 24, 2021
+
+[Link to the original video on Youtube](https://www.youtube.com/watch?v=-p7tSJS0tP8)
+
+Youtube: [Spacespy](https://www.youtube.com/channel/UCJBMr8Ag6Fdzx9n7K4UpnLw) Twitter: [@spacespy_tv](https://twitter.com/spacespy_tv)
+
+Youtube: [IcarusoofDev](https://www.youtube.com/channel/UCGJlAmlPIeGn5K9-yP4xzHA) Twitter: [@IcarusoofDev](https://twitter.com/IcarusoofDev)
+
+Youtube: [DevNugget](https://www.youtube.com/c/DevNugget) Twitter: [@DevNuggWasTaken](https://twitter.com/DevNuggWasTaken)
+
+Youtube: [ScriptLine Studios](https://www.youtube.com/c/ScriptLineStudios) Twitter: [@scriptline3](https://twitter.com/scriptline3)
 
